@@ -3,9 +3,9 @@
 </a>
 
 - 👋 Hi, I’m @personwhofloat
-- 👀 I’m interested in Computer Vision core problems
-- 🌱 I’m currently learning object detection
-- 💞️ I’m looking to collaborate on solving object detection and scene understanding
+- 👀 I’m interested in Deep Learning, and how to apply it in real life.
+- 🌱 I’m currently learning Secure Machine Learning problem.
+- 💞️ I’m looking to collaborate on SecureML.
 - 📫 How to reach me: email:tson.csp@gmail.com
 
 <!---
